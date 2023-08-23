@@ -1,0 +1,9 @@
+/* Structural Pseudo-classes------------------ */
+li:first-child {
+    margin-left: 0;
+    background-color: #52bab3;
+    color:white;
+  }
+li:last-child {
+    border: none;
+  }
